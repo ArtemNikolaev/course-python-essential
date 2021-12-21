@@ -11,3 +11,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - задача 1.3 - n to n+nn+nnn
 - задача 1.4 - Найти самую большую цифру во введенном числе
 - задача 1.5 - Рентабельность фирмы
+- задача 1.6 - Спортсмен
