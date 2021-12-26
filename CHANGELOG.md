@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - 2.1 - проверка типа элементов массива
 - 2.2 - переставленние соседних элементов массива
+- 2.3 - найти сезон по номеру месяца, версия с массивом
 
 ## [HomeWork1] - 2021-12-21
 ### Added
