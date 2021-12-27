@@ -5,6 +5,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+
+## [HomeWork2] - 2021-12-27
 ### Added
 - 2.1 - проверка типа элементов массива
 - 2.2 - переставленние соседних элементов массива
@@ -24,5 +26,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - задача 1.6 - Спортсмен
 - задача 1.1
 
-[Unreleased]: https://github.com/ArtemNikolaev/gb-hw/compare/hw1...HEAD
+[Unreleased]: https://github.com/ArtemNikolaev/gb-hw/compare/hw2...HEAD
+[HomeWork2]: https://github.com/ArtemNikolaev/gb-hw/compare/hw1...hw2
 [HomeWork1]: https://github.com/ArtemNikolaev/gb-hw/releases/tag/hw1
