@@ -54,4 +54,3 @@ def can_be_int_or_float(num):
 
 def cant_be_int_or_float(num):
     return not can_be_int_or_float(num)
-
