@@ -7,7 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 ### Added
 - shared package
-- number methods for shared package
+- number package for shared package
+- typed_input module for shared package
 
 ## [HomeWork2] - 2021-12-27
 ### Added
