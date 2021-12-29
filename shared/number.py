@@ -1,3 +1,27 @@
+def is_int(num):
+    return isinstance(num, int)
+
+
+def is_not_int(num):
+    return not is_int(num)
+
+
+def is_float(num):
+    return isinstance(num, float)
+
+
+def is_not_float(num):
+    return not is_float(num)
+
+
+def is_number(num):
+    return is_int(num) or is_float(num)
+
+
+def is_not_number(num):
+    return not is_number(num)
+
+
 def can_be_int(num):
     try:
         int(num)

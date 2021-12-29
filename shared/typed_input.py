@@ -31,7 +31,7 @@ def get_number(msg):
         if number.can_be_int(temp_value):
             value = int(temp_value)
         elif number.can_be_float(temp_value):
-            value = int(temp_value)
+            value = float(temp_value)
         else:
             print('Input should be int or float')
     return value
