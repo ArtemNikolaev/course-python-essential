@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - 3.1 - деление двух чисел
 - 3.2 - вывод информации о пользователе
+- 3.3 - сумма двух больших чисел из трех
 - shared package
 - number package for shared package
 - typed_input module for shared package
