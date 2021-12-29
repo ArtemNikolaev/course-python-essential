@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 ### Added
 - 3.1 - деление двух чисел
+- 3.2 - вывод информации о пользователе
 - shared package
 - number package for shared package
 - typed_input module for shared package
