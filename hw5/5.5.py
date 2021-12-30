@@ -3,12 +3,12 @@ import random
 from functools import reduce
 
 
-def reducer(summa, newNum):
-    return summa + int(newNum)
+def reducer(summa, new_num):
+    return summa + int(new_num)
 
 
-def generate_file():
-    f = open('5.5.txt', 'w')
+def generate_file(filename):
+    f = open(filename, 'w')
 
     number_amount = random.randrange(10, 100)
 
@@ -17,12 +17,13 @@ def generate_file():
     f.close()
 
 
-def calculate_file():
-    f = open('5.5.txt', 'r')
+def calculate_file(filename):
+    f = open(filename, 'r')
 
     print(reduce(reducer, f.read().split(), 0))
     f.close()
 
 
-generate_file()
-calculate_file()
+file_name = '5.5.txt'
+generate_file(file_name)
+calculate_file(file_name)

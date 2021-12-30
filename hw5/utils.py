@@ -7,3 +7,4 @@ def read_file(filename):
     while string:
         yield string
         string = f.readline()
+    f.close()
