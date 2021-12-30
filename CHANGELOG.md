@@ -5,6 +5,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+
+## [HomeWork3] - 2021-12-30
 ### Added
 - [3.1](https://github.com/ArtemNikolaev/gb-hw/issues/9) - деление двух чисел
 - [3.2](https://github.com/ArtemNikolaev/gb-hw/issues/8) - вывод информации о пользователе
@@ -37,6 +39,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [1.6](https://github.com/ArtemNikolaev/gb-hw/issues/15) - Спортсмен
 - changelog
 
-[Unreleased]: https://github.com/ArtemNikolaev/gb-hw/compare/hw2...HEAD
+[Unreleased]: https://github.com/ArtemNikolaev/gb-hw/compare/hw3...HEAD
+[HomeWork3]: https://github.com/ArtemNikolaev/gb-hw/compare/hw2...hw3
 [HomeWork2]: https://github.com/ArtemNikolaev/gb-hw/compare/hw1...hw2
 [HomeWork1]: https://github.com/ArtemNikolaev/gb-hw/releases/tag/hw1
