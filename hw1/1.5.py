@@ -1,4 +1,4 @@
-# Рентабельность фирмы
+# https://github.com/ArtemNikolaev/gb-hw/issues/14
 
 revenue = int(input('Введите выручку: '))
 costs = int(input('Введите издержки: '))

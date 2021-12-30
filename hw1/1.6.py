@@ -1,5 +1,4 @@
-# Sportsmen
-# a=2 b=3, result = 6
+# https://github.com/ArtemNikolaev/gb-hw/issues/15
 
 a = int(input('Введите a: '))
 b = int(input('Введите b: '))

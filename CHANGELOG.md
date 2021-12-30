@@ -5,6 +5,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+### Added
+- заглушки для задач 4-ой домашки
+- ссылка на задачу в файле с решением
+
+### Removed
+- условия задач в файлах с решением
 
 ## [HomeWork3] - 2021-12-30
 ### Added

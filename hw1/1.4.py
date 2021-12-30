@@ -1,4 +1,4 @@
-# Найти самую большую цифру во введенном числе
+# https://github.com/ArtemNikolaev/gb-hw/issues/13
 
 num = int(input('Введите число: '))
 max = 0

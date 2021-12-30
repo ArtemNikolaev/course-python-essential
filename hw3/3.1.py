@@ -1,7 +1,4 @@
-# 1. Реализовать функцию, принимающую;
-# два числа (позиционные аргументы) и; выполняющую их деление.
-# Числа запрашивать; у пользователя, предусмотреть обработку
-# ситуации деления на ноль.
+# https://github.com/ArtemNikolaev/gb-hw/issues/9
 
 import shared.typed_input as ti
 import shared.number as number

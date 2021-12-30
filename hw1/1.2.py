@@ -1,5 +1,4 @@
-# seconds to hh:mm:ss
-# 15,820 - 04:23:40
+# https://github.com/ArtemNikolaev/gb-hw/issues/11
 
 ss = int(input('Введите количество секунд: '))
 

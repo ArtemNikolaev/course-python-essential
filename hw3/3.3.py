@@ -1,5 +1,4 @@
-# 3. Реализовать функцию my_func(), которая принимает три позиционных аргумента,
-# и возвращает сумму наибольших двух аргументов.
+# https://github.com/ArtemNikolaev/gb-hw/issues/7
 
 import shared.typed_input as ti
 

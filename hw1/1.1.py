@@ -1,3 +1,5 @@
+# https://github.com/ArtemNikolaev/gb-hw/issues/10
+
 junk1 = 1
 junk2 = 2
 print(junk1 + junk2)

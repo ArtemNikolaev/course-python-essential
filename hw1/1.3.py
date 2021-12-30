@@ -1,7 +1,4 @@
-# n to n+nn+nnn
-# 3: 369
-# 4: 492
-# 10: 102030
+# https://github.com/ArtemNikolaev/gb-hw/issues/12
 
 n = input('Введите n: ')
 
