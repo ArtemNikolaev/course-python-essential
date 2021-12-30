@@ -1,6 +1,7 @@
 # https://github.com/ArtemNikolaev/gb-hw/issues/34
 import io
 from itertools import count
+from utils import read_file
 
 numbers = {
     'One': 'Один',
@@ -9,13 +10,12 @@ numbers = {
     'Four': 'Четыре',
 }
 
-fR = io.open('5.4.txt', 'r', encoding='utf-8')
-fW = io.open('5.4-new.txt', 'w', encoding='utf-8')
+fR = read_file('5.4.txt')
+fW = io.open('5.4-result.txt', 'w', encoding='utf-8')
 
 counter = count()
-string = fR.readline()
 
-while len(string) > 0:
+for string in fR:
     print('Line: ', next(counter))
     print('\tReaded: ', string)
 
@@ -25,7 +25,5 @@ while len(string) > 0:
     print('\tWrited: ', result)
 
     fW.write(result)
-    string = fR.readline()
 
-fR.close()
 fW.close()
