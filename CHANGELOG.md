@@ -6,9 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 ### Added
-- 3.1 - деление двух чисел
-- 3.2 - вывод информации о пользователе
-- 3.3 - сумма двух больших чисел из трех
+- [3.1](https://github.com/ArtemNikolaev/gb-hw/issues/9) - деление двух чисел
+- [3.2](https://github.com/ArtemNikolaev/gb-hw/issues/8) - вывод информации о пользователе
+- [3.3](https://github.com/ArtemNikolaev/gb-hw/issues/7) - сумма двух больших чисел из трех
 - [3.4](https://github.com/ArtemNikolaev/gb-hw/issues/4) - возведение в отрицательную степень - решение через **
 - [3.4](https://github.com/ArtemNikolaev/gb-hw/issues/4) - возведение в отрицательную степень - решение без **
 - [3.5](https://github.com/ArtemNikolaev/gb-hw/issues/5) - сумма массива чисел
@@ -19,23 +19,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [HomeWork2] - 2021-12-27
 ### Added
-- 2.1 - проверка типа элементов массива
-- 2.2 - переставленние соседних элементов массива
-- 2.3 - найти сезон по номеру месяца, версия с массивом
-- 2.3 - найти сезон по номеру месяца, версия со словарем
-- 2.4 - разделить строку по пробелу и вывести слова отдельно сократив
-- 2.5 - rating
-- 2.6 - goods structure
+- [2.1](https://github.com/ArtemNikolaev/gb-hw/issues/16) - проверка типа элементов массива
+- [2.2](https://github.com/ArtemNikolaev/gb-hw/issues/17) - переставленние соседних элементов массива
+- [2.3](https://github.com/ArtemNikolaev/gb-hw/issues/18) - найти сезон по номеру месяца, версия с массивом
+- [2.3](https://github.com/ArtemNikolaev/gb-hw/issues/19) - найти сезон по номеру месяца, версия со словарем
+- [2.4](https://github.com/ArtemNikolaev/gb-hw/issues/19) - разделить строку по пробелу и вывести слова отдельно сократив
+- [2.5](https://github.com/ArtemNikolaev/gb-hw/issues/20) - rating
+- [2.6](https://github.com/ArtemNikolaev/gb-hw/issues/21) - goods structure
 
 ## [HomeWork1] - 2021-12-21
 ### Added
+- [1.1](https://github.com/ArtemNikolaev/gb-hw/issues/10)
+- [1.2](https://github.com/ArtemNikolaev/gb-hw/issues/11) - seconds to hh:mm:ss
+- [1.3](https://github.com/ArtemNikolaev/gb-hw/issues/12) - n to n+nn+nnn
+- [1.4](https://github.com/ArtemNikolaev/gb-hw/issues/13) - Найти самую большую цифру во введенном числе
+- [1.5](https://github.com/ArtemNikolaev/gb-hw/issues/14) - Рентабельность фирмы
+- [1.6](https://github.com/ArtemNikolaev/gb-hw/issues/15) - Спортсмен
 - changelog
-- задача 1.2 - seconds to hh:mm:ss
-- задача 1.3 - n to n+nn+nnn
-- задача 1.4 - Найти самую большую цифру во введенном числе
-- задача 1.5 - Рентабельность фирмы
-- задача 1.6 - Спортсмен
-- задача 1.1
 
 [Unreleased]: https://github.com/ArtemNikolaev/gb-hw/compare/hw2...HEAD
 [HomeWork2]: https://github.com/ArtemNikolaev/gb-hw/compare/hw1...hw2
