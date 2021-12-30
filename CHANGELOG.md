@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 3.3 - сумма двух больших чисел из трех
 - [3.4](https://github.com/ArtemNikolaev/gb-hw/issues/4) - возведение в отрицательную степень - решение через **
 - [3.4](https://github.com/ArtemNikolaev/gb-hw/issues/4) - возведение в отрицательную степень - решение без **
+- [3.5](https://github.com/ArtemNikolaev/gb-hw/issues/5) - сумма массива чисел
 - shared package
 - number package for shared package
 - typed_input module for shared package
