@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [4.1](https://github.com/ArtemNikolaev/gb-hw/issues/22) - расчет зп
 - [4.2](https://github.com/ArtemNikolaev/gb-hw/issues/23) - выборка из массива чисел, которые больше предыдущего элемента
 - [4.3](https://github.com/ArtemNikolaev/gb-hw/issues/24) - кратно 20 или 21
+- [4.4](https://github.com/ArtemNikolaev/gb-hw/issues/25) - отфильтровать уникальные значения массива
 - [4.5](https://github.com/ArtemNikolaev/gb-hw/issues/26) - произведение четных от 100 до 1001
 - заглушки для задач 4-ой домашки
 - ссылка на задачу в файле с решением
