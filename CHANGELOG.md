@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [4.3](https://github.com/ArtemNikolaev/gb-hw/issues/24) - кратно 20 или 21
 - [4.4](https://github.com/ArtemNikolaev/gb-hw/issues/25) - отфильтровать уникальные значения массива
 - [4.5](https://github.com/ArtemNikolaev/gb-hw/issues/26) - произведение четных от 100 до 1001
+- [4.7](https://github.com/ArtemNikolaev/gb-hw/issues/28) - генератор факториала
 - заглушки для задач 4-ой домашки
 - ссылка на задачу в файле с решением
 
