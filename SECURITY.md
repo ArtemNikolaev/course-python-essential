@@ -6,7 +6,8 @@ Use this section to tell people about which versions of your project are
 currently being supported with security updates.
 
 | Version | Supported          |
-| ------- | ------------------ |
+|---------| ------------------ |
+| hw3     | :white_check_mark: |
 | hw2     | :white_check_mark: |
 | hw1     | :white_check_mark: |
 
