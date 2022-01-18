@@ -26,3 +26,6 @@ while len(string) > 0:
 
     fW.write(result)
     string = fR.readline()
+
+fR.close()
+fW.close()

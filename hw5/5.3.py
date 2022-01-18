@@ -1,6 +1,5 @@
 # https://github.com/ArtemNikolaev/gb-hw/issues/33
 import io
-from itertools import count
 
 f = io.open('5.3.txt', 'r', encoding='utf-8')
 salarySum = 0
@@ -21,3 +20,4 @@ while len(string) > 0:
 
 
 print('\nCредняя зарплата: ', salarySum / peoples)
+f.close()
