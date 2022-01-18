@@ -7,7 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 ### Added
 - [5.1](https://github.com/ArtemNikolaev/gb-hw/issues/30) - запись в файл построчно вводимых данных
-- [5.2](https://github.com/ArtemNikolaev/gb-hw/issues/32) - подсчёт строк и слов в каждой строке 
+- [5.2](https://github.com/ArtemNikolaev/gb-hw/issues/31) - подсчёт строк и слов в каждой строке 
+- [5.3](https://github.com/ArtemNikolaev/gb-hw/issues/33) - кто больше зарабатывает, средняя величина дохода сотрудников
 
 ## [HomeWork4] - 2021-01-26
 ### Added
