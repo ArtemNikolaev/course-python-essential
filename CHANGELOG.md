@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [5.3](https://github.com/ArtemNikolaev/gb-hw/issues/33) - кто больше зарабатывает, средняя величина дохода сотрудников
 - [5.4](https://github.com/ArtemNikolaev/gb-hw/issues/34) - заменить английские числительные на русские
 - [5.5](https://github.com/ArtemNikolaev/gb-hw/issues/35) - записать в файл набор чисел и найти их сумму
+- [5.5](https://github.com/ArtemNikolaev/gb-hw/issues/36) - словарь из файла
 - [5.7](https://github.com/ArtemNikolaev/gb-hw/issues/37) - file to json with calculations
 
 ## [HomeWork4] - 2021-01-26

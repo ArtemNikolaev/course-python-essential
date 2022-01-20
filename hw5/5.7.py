@@ -1,14 +1,6 @@
 # https://github.com/ArtemNikolaev/gb-hw/issues/37
-import io
 from json import dumps
-
-
-def read_file(filename):
-    f = io.open(filename, 'r', encoding='utf-8')
-    string = f.readline()
-    while string:
-        yield string
-        string = f.readline()
+from utils import read_file
 
 
 def calculate_result(strings):
