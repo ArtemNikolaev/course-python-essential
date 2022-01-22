@@ -6,8 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 ### Added
-- [6.1](# https://github.com/ArtemNikolaev/gb-hw/issues/38
+- [6.1](https://github.com/ArtemNikolaev/gb-hw/issues/38
 ) - светофор
+- [6.2](https://github.com/ArtemNikolaev/gb-hw/issues/39
+) - дорога
 
 ## [HomeWork5] - 2021-01-26
 ### Added
