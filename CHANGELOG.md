@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [6.2](https://github.com/ArtemNikolaev/gb-hw/issues/39) - дорога
 - [6.3](https://github.com/ArtemNikolaev/gb-hw/issues/40) - Worker
 - [6.4](https://github.com/ArtemNikolaev/gb-hw/issues/41) - Car
+- [6.5](https://github.com/ArtemNikolaev/gb-hw/issues/42) - Stationery
 
 ## [HomeWork5] - 2021-01-26
 ### Added
