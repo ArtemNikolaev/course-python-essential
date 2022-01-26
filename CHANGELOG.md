@@ -5,6 +5,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+
+## [HomeWork6] - 2021-01-26
 ### Added
 - [6.1](https://github.com/ArtemNikolaev/gb-hw/issues/38) - светофор
 - [6.2](https://github.com/ArtemNikolaev/gb-hw/issues/39) - дорога
@@ -69,7 +71,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [1.6](https://github.com/ArtemNikolaev/gb-hw/issues/15) - Спортсмен
 - changelog
 
-[Unreleased]: https://github.com/ArtemNikolaev/gb-hw/compare/hw5...HEAD
+[Unreleased]: https://github.com/ArtemNikolaev/gb-hw/compare/hw6...HEAD
+[HomeWork6]: https://github.com/ArtemNikolaev/gb-hw/compare/hw5...hw6
 [HomeWork5]: https://github.com/ArtemNikolaev/gb-hw/compare/hw4...hw5
 [HomeWork4]: https://github.com/ArtemNikolaev/gb-hw/compare/hw3...hw4
 [HomeWork3]: https://github.com/ArtemNikolaev/gb-hw/compare/hw2...hw3
