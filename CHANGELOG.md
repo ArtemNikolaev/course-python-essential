@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 ### Added
 - [7.1] - Matrix
+- [7.2] - Расход ткани
 
 ## [HomeWork6] - 2021-01-26
 ### Added
@@ -74,6 +75,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - changelog
 
 [7.1]: https://github.com/ArtemNikolaev/course-python-essential/issues/44
+[7.2]: https://github.com/ArtemNikolaev/course-python-essential/issues/45
 
 [3.1]: https://github.com/ArtemNikolaev/course-python-essential/issues/9
 [3.2]: https://github.com/ArtemNikolaev/course-python-essential/issues/8
