@@ -5,6 +5,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+### Added
+- [8.1] - класс Date
 
 ## [HomeWork6] - 2021-01-26
 ### Added
@@ -70,6 +72,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [1.5](https://github.com/ArtemNikolaev/gb-hw/issues/14) - Рентабельность фирмы
 - [1.6](https://github.com/ArtemNikolaev/gb-hw/issues/15) - Спортсмен
 - changelog
+
+[8.1]: https://github.com/ArtemNikolaev/course-python-essential/issues/47
 
 [Unreleased]: https://github.com/ArtemNikolaev/gb-hw/compare/hw6...HEAD
 [HomeWork6]: https://github.com/ArtemNikolaev/gb-hw/compare/hw5...hw6
